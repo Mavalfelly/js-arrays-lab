@@ -188,9 +188,9 @@ nums.forEach(nums => {
     
 })
 console.log('Exercise 12 Results:');
-console.log('  fizz:', fizz);
-console.log('  buzz:', buzz);
-console.log('  fizzbuzz:', fizzbuzz);
+console.log('fizz:', fizz);
+console.log('buzz:', buzz);
+console.log('fizzbuzz:', fizzbuzz);
 
 /*
 Exercise 13: Retrieve the Last Array
@@ -234,8 +234,8 @@ const num = numArrays[2][1]
 
 
 console.log('Exercise 14 result:', num);
-
 /*
+
 Exercise 15: Nested array sum
 
 1) Use nested loops or `forEach()` methods to sum up all numbers within 
